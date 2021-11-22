@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Source Sans Pro', 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
   position: relative;
@@ -20,14 +20,13 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
-  overflow-wrap: break-word;
 }
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
@@ -389,11 +388,6 @@ footer a {
   color: {{ site.footer-link-col | default: "#404040" }};
 }
 
-footer a:hover,
-footer a:focus {
-  color: {{ site.footer-hover-col | default: "#0085A1" }};
-}
-
 footer .list-inline {
   margin: 0;
   padding: 0;
@@ -450,7 +444,7 @@ footer .footer-custom-content {
 
 .post-preview a {
   text-decoration: none;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: {{ site.text-col | default: "#404040" }};
 }
 
