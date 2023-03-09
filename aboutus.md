@@ -80,6 +80,6 @@ Github release processes will be the core of how we manage this site moving forw
 
 We are not currently sponsored. The platform is funded where required by the community.
 
-If you would like to join, we have a standing open invite link [here](https://t.co/UEBgTHRDXF)
+If you would like to join, we have a standing open invite link [here](https://t.co/EVrMXepANH)
 
 If anyone has ideas or contributions they would like to add to this community, we are open. We welcome input and contributions in any way, however our core focus will be one of community and we will keep to that core above anything else. Should you wish to contribute and help in any way, do so knowing that we will not push any particular solution or technology.
