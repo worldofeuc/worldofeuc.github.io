@@ -41,7 +41,7 @@ There are many great community initiatives out there. Many of these initiatives 
 -  We will **NOT** tolerate abuse against another member of this community.
 -  We aim to, and will consistently ask you to utilize threads within the slack channels and expect a level of professionalism and courtesy - *threads are critical*.
 -  Be respectful. Keep your opinions to yourself if they don't make the world a better place. You are welcome to your negativity, you are not welcome to impose it on others.
--  Be inclusive. Don't exclude individuals from a conversation, you never know, you might learn something new!
+-  Be inclusive. Don't exclude individuals from a conversation, you never know, you might learn something new.
 
 If you do not thread, your content **will** be deleted.
 {:.note title="Attention"}
@@ -66,11 +66,13 @@ This site and any associated blog posts are hosted on Github Pages.
 
 We are not currently sponsored. The platform is funded where required by the community.
 
-If you would like to join, we have a standing [open invite link here](https://t.co/UEBgTHRDXF).
+If you would like to join, we have a standing [open invite link here](https://join.slack.com/t/worldofeuc/shared_invite/zt-dexotib9-vL0IzKmh9QhPrGxE8LotAA).
 
 If anyone has ideas or contributions they would like to add to this community, we are open to suggestions.
 
 We welcome input and contributions in any way, however our core focus will be one of community, and we will keep to that core above anything else. Should you wish to contribute and help in any way, do so knowing that we will not push any particular solution or technology.
+
+## Diversity in Tech
 
 ## Admin help and support
 
@@ -83,4 +85,3 @@ Whilst we are an open community platform, there are currently 4 admins who can h
 | [Ryan Revord](https://twitter.com/rsrevord) | USA |
 | [Dave Brett](https://twitter.com/dbretty) | UK |
 {:.smaller}
-
