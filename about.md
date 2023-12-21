@@ -4,7 +4,7 @@ layout: about
 
 # About
 
-1.  this list will be replaced by the toc
+-  Table of Contents
 {:toc .large-only}
 
 We are a world of technology specialists, end users, consultants and developers. We are vendor and platform agnostic and all things EUC.
@@ -45,31 +45,15 @@ There are many great community initiatives out there. Many of these initiatives 
 If you do not thread, your content **will** be deleted.
 {:.note title="Attention"}
 
-## Platform
-
-We currently operate using the Slack platform.
-
-We archive slack content to [linen.dev](https://www.linen.dev/s/worldofeuc) so that there is record available for content older than 90 days.
-
-Furthermore, we structure our channels in a simple and easy to follow method:
-
--  Channels prefixed with an underscore (`_`) are general discussion channels within a certain criterion - think General chat, Community events, GPU discussions etc.
--  Channels prefixed with a dash (`-`) are for community driven initiatives and projects - think BIS-F etc.
--  All other channels with no prefix are vendor or technology specific - think ControlUp, Citrix Cloud, Microsoft FSLogix or Nutanix etc.
-
-We have a current bridge to Discord. We ask discord users to respect the use of threads.
-
-This site and any associated blog posts are hosted on Github Pages.
-
 ## How to get involved
 
 We are not currently sponsored. The platform is funded where required by the community.
 
-If you would like to join, we have a standing [open invite link here](https://join.slack.com/t/worldofeuc/shared_invite/zt-dexotib9-vL0IzKmh9QhPrGxE8LotAA).
-
 If anyone has ideas or contributions they would like to add to this community, we are open to suggestions.
 
 We welcome input and contributions in any way, however our core focus will be one of community, and we will keep to that core above anything else. Should you wish to contribute and help in any way, do so knowing that we will not push any particular solution or technology.
+
+Visit the [platforms](/platforms/) page for details on how to join
 
 ## Diversity in Tech
 

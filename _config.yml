@@ -48,6 +48,8 @@ menu:
     url: /events/
   - title: Want to Blog?
     url: /howtoblog/
+  - title: Platforms
+    url: /platforms/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 #legal:
@@ -62,7 +64,7 @@ permalink: /:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
 paginate_path: /:num/
-#excerpt_separator: <!--excerpt-->
+excerpt_separator: <!--excerpt-->
 
 # Theme
 # ---------------------------------------------------------------------------------------
