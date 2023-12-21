@@ -66,10 +66,10 @@ Ensure you alter:
 
 For new `Featured Categories`, please make a note in your pull request of what you would like, or if comfortable, create a new category under the `_featured_categories` folder in the site root and include it in your pull request.
 
-# An Example Post?
+# An Example Post
 
 There is a bit to take in. Here is an [example post](https://worldofeuc.com/a-draft-post-used-for-how-to-blog) where we walk through a few components with exampels. You can always look at the raw markdown in github to understand what we are doing.
 
-# This is crazy. How do I see posts before they land on Github
+# How do I see posts before they land on Github
 
-Given this is such a simple deployment, you can render your content locally by a number of different mechanisms. There is a remarkably handsome gentleman over on the island of convicts who has an example of how you could [undertake this adventure](https://jkindon.com/hydejack-github-pages-docker-containers/).
+Given this is such a simple deployment, you can render your content locally by a number of different mechanisms. Over on the island of convicts, there is an example of how you could [undertake this adventure](https://jkindon.com/hydejack-github-pages-docker-containers/).
