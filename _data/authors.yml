@@ -68,6 +68,8 @@ Guest1:
     Hello, I am not a real person.
 
     Be cool if I was though.
+
+    If you would like to talk about this post, I am available on the World of EUC Slack workspace
   # This photo will be used in the about section
   picture:
     path: /assets/img/logo.png
@@ -82,6 +84,8 @@ Guest2:
     Hello, I am the second not real person.
 
     Be cool if I was though. First fake guy was useless.
+
+    If you would like to talk about this post, I am available on the World of EUC Slack workspace
   # This photo will be used in the about section
   picture:
     path: /assets/img/logo.png
