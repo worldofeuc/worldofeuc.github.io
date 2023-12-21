@@ -1,14 +1,13 @@
 ---
 layout: about
-image: /assets/img/tbd.jpg
 ---
 
 # About
 
-<!--author-->
-
 1.  this list will be replaced by the toc
 {:toc .large-only}
+
+We are a world of technology specialists, end users, consultants and developers. We are vendor and platform agnostic and all things EUC.
 
 ## Why we are here
 
