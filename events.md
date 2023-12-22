@@ -7,10 +7,7 @@ description: >
   Below you will find a list of events that we are running at the World of EUC along with the registration link and post event recording.
 ---
 
-<!--author-->
-
-* 
-{:toc}
+<iframe src="/euctimeline/index.html" width='100%' height='600' frameborder='0'></iframe>
 
 ####  18 November 2021
 Citrix Community Lab Project
