@@ -55,8 +55,6 @@ We welcome input and contributions in any way, however our core focus will be on
 
 Visit the [platforms](/platforms/) page for details on how to join
 
-## Diversity in Tech
-
 ## Admin help and support
 
 Whilst we are an open community platform, there are currently 4 admins who can help you with requests and guidance as needed:
