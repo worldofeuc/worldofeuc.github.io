@@ -2,7 +2,7 @@
 email:
   name: Email
   icon: icon-mail
-  prepend: 'mailto:'
+  prepend: 'mailto:info@worldofeuc.com'
 amazon:
   name: Amazon
   icon: icon-amazon
@@ -58,7 +58,7 @@ rss:
 youtube:
   name: YouTube
   icon: icon-youtube
-  prepend: "https://www.youtube.com/channel/"
+  prepend: "https://www.youtube.com/@WorldofEUC"
 twitch:
   name: Twitch
   icon: icon-twitch
