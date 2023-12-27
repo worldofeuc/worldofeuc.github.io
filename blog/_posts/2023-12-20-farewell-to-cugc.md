@@ -23,7 +23,7 @@ It is a community body which provided the average human a place to meet others, 
 
 For good, or for bad, Citrix have taken back control of the CUGC community and will manage it's content and structures moving forward with it's own agenda. This isn't necessarily a bad thing, but it of course means change.
 
-We founded the World of EUC community years ago with a single purpose of providing a central platform to share technical knowledge. Over the years the community has grown to a current 2,891 members according to Slack, along with who knows how many via Discord and the integration we via the bridge between CUGC and World of EUC Slack communities. It has turned into a pretty great place to get a technical hand.
+We founded the World of EUC community years ago with a single purpose of providing a central platform to share technical knowledge. Over the years the community has grown to a current 2,891 members according to Slack, along with who knows how many via Discord and the integration between CUGC and World of EUC Slack communities. It has turned into a pretty great place to get a technical hand.
 
 The World of EUC community is not going to replace what CUGC created, however we invite and welcome anyone to join and take part in the conversations that are always happening.
 
