@@ -68,7 +68,7 @@ For new `Featured Categories`, please make a note in your pull request of what y
 
 # An Example Post
 
-There is a bit to take in. Here is an [example post](https://worldofeuc.com/a-draft-post-used-for-how-to-blog) where we walk through a few components with exampels. You can always look at the raw markdown in github to understand what we are doing.
+There is a bit to take in. Here is an [example post](https://worldofeuc.com/a-draft-post-used-for-how-to-blog/) where we walk through a few components with exampels. You can always look at the raw markdown in github to understand what we are doing.
 
 # How do I see posts before they land on Github
 
